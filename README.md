@@ -1,4 +1,9 @@
 ## Olá! Me chamo Nicolas Lopes
+🎓Atualmente estou no Ensino Médio no 3º ano cursando Desenvolvimento de Sistemas.                                                                                            
+🎯Meu objetivo é crescer e aprender sempre mais.
+
+---
+## Sobre mim
 Sou estudante de tecnologia com **forte domínio em C, Python e SQL**, focado em **lógica de programação, banco de dados e análise de dados**.  
 Tenho interesse em construir soluções eficientes, bem estruturadas e orientadas a dados.
 
