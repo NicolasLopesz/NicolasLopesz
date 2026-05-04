@@ -4,7 +4,7 @@
 
 ---
 ## Sobre mim
-Tenho experiência em C, Python, SQL e Bash, atuando no desenvolvimento de soluções eficientes, bem estruturadas e orientadas a dados.  
+Tenho experiência em C, Python, SQL e Bash, estudando para o desenvolvimento de soluções eficientes, bem estruturadas e orientadas a dados.  
 Atualmente, concentro meus estudos e projetos em IA, utilizando Python como principal ferramenta.
 
 ---
