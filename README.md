@@ -4,8 +4,8 @@
 
 ---
 ## Sobre mim
-Sou estudante de tecnologia com **Conhecimento em C, Python, SQL, Bash**.  
-Tenho interesse em construir soluções eficientes, bem estruturadas e orientadas a dados.
+Tenho experiência em C, Python, SQL e Bash, atuando no desenvolvimento de soluções eficientes, bem estruturadas e orientadas a dados.  
+Atualmente, concentro meus estudos e projetos em IA, utilizando Python como principal ferramenta.
 
 ---
 <div style="display: inline_block"><br>
