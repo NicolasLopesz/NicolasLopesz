@@ -4,7 +4,7 @@
 
 ---
 ## Sobre mim
-Sou estudante de tecnologia com **Conhecimento em C, Python, SQL e Bash**.  
+Sou estudante de tecnologia com **Conhecimento em C, Python, SQL, Bash**.  
 Tenho interesse em construir soluções eficientes, bem estruturadas e orientadas a dados.
 
 ---
