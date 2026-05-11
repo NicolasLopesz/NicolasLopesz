@@ -41,13 +41,7 @@ Sou estudante do 3º ano do Ensino Médio cursando <b>Desenvolvimento de Sistema
 
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="center">My GitHub Stats</h2>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nicolaslops&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e74c3c&icon_color=6c3483&text_color=c9d1d9&ring_color=e74c3c" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslops&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=e74c3c&text_color=c9d1d9" alt="Top Languages"/>
 </div>
 
 <br>
